@@ -1,0 +1,11 @@
+RCAT INTERNAL EXAMS 
+Q1:-List Comprehensions: Given a list of integers, write a one-liner to create a new list with the squares of all even numbers from the original list.[5 marks]
+Q2:-Decorators:Write a decorator that logs the execution time of a function.[10 marks]
+Q3:-Generators:Implement a generator function to yield the Fibonacci sequence up to a given number n.[10 marks]
+Q4:-Error Handling Wite a function that reads from a file and handles the exception if the file does not exist.[5 marks]
+Q5:-Linear Regression:Implement a simple linear regression model from scratch using NumPy.[15 marks]
+Q6:-Logistic Regression: Write thecost function for logistic regression.[15 marks]
+Q7:-K-Means Clustering Implement a simple regression model from scratch using NumPy.[15 marks]
+Q8:-Gradient Descent:Implement the freadient descent algorthm for linear regression.[20 marks]
+Q9:-Principal Component Analysis(PCA):Implement PCA using NumPy.[20 marks]
+Q10:-Feature Engineering: Explain how to handle ategorical data and missing values in a dataset. Give a demo example.[10 marks]
